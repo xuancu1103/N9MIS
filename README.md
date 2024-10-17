@@ -1,6 +1,8 @@
 ĐỀ TÀI: XÂY DỰNG HỆ THỐNG BÁN HÀNG CHO CỦA HÀNG BÁN THIẾT BỊ ĐIỆN TỬ
 
-Nhóm 9:  Phạm Nhật Minh - 2151163708
+Nhóm 9:
+
+Phạm Nhật Minh - 2151163708
 
 Dương Xuân Cừ - 
 
