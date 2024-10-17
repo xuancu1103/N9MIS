@@ -47,5 +47,8 @@ CRM cũng giúp theo dõi toàn bộ hành trình của khách hàng, từ lúc 
 Thông tin từ các kênh bán hàng được đồng bộ vào hệ thống quản lý để cập nhật trạng thái đơn hàng, quản lý hàng tồn kho và dự đoán nhu cầu nhập hàng.
 Dữ liệu về doanh số, lợi nhuận và các chỉ số khác được tổng hợp và phân tích, giúp cửa hàng đánh giá hiệu quả kinh doanh trên từng kênh và đưa ra chiến lược cải thiện phù hợp.
 Hệ thống website bán thiết bị điện tử này sẽ không chỉ tối ưu hóa quy trình bán hàng mà còn nâng cao trải nghiệm khách hàng thông qua sự liền mạch và thuận tiện, từ khâu tương tác trên mạng xã hội đến hoàn tất mua sắm trực tuyến.
+
+•	Hình ảnh quy trình hệ thống:
+
 ![image](https://github.com/user-attachments/assets/919eafff-d99f-4b19-a506-808be428581a)
 
