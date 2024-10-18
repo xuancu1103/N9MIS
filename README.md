@@ -42,6 +42,10 @@ Quy trình xây dựng hệ thống website bán thiết bị điện tử đư�
 o	Bắt đầu với việc xây dựng nội dung thu hút trên fanpage bằng các bài viết review chi tiết về sản phẩm, đi kèm với hình ảnh, video minh họa để thu hút sự quan tâm của khách hàng. Những bài đăng này tạo ra cơ hội để khách hàng tương tác, thảo luận, và đánh giá sản phẩm trực tiếp trên mạng xã hội.
 o	Khách hàng có thể thực hiện các hành động như thích, bình luận, chia sẻ, hoặc nhắn tin để yêu cầu thông tin thêm. Các hành vi này sẽ được ghi nhận để đánh giá mức độ quan tâm của khách hàng, giúp xác định khách hàng tiềm năng.
 o	Bài viết và các tin nhắn tự động sẽ kèm theo liên kết điều hướng đến website hoặc các sàn thương mại điện tử, giúp khách hàng dễ dàng chuyển đổi từ giai đoạn tìm hiểu sang mua hàng.
+
+
+![image](https://github.com/user-attachments/assets/275659a9-5268-4855-a745-51ef60e1a0df)
+
  
 2.	Chuyển đổi khách hàng sang kênh bán hàng chính thức
 o	Khi khách hàng nhấp vào các liên kết trên fanpage, họ sẽ được dẫn đến website chính thức của cửa hàng hoặc sàn thương mại điện tử để tiếp tục xem thông tin sản phẩm chi tiết, chương trình khuyến mãi và đặt hàng.
@@ -52,6 +56,10 @@ o	Các công cụ đo lường hành vi khách hàng như Google Analytics hoặ
 
 
 o	Sử dụng chứng chỉ website SSL (HTTPS)
+
+![image](https://github.com/user-attachments/assets/c6e66c8a-2a75-47b0-bd07-47455752a1d5)
+
+
  
 4.	Ghi nhận và quản lý dữ liệu khách hàng
 
