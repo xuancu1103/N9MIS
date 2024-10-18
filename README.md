@@ -68,6 +68,9 @@ o	Hệ thống quản lý quan hệ khách hàng (CRM) sẽ tự động ghi nh�
  
 o	Thông qua việc lưu trữ và phân tích dữ liệu trong CRM, hệ thống có thể đánh giá tiềm năng của từng khách hàng, từ đó giúp doanh nghiệp đưa ra các quyết định tiếp thị và bán hàng chính xác hơn.
 
+![image](https://github.com/user-attachments/assets/887d9949-0c3a-445b-a603-0ef0e14e21ae)
+
+
 5.	Tư vấn khách hàng
 
 
@@ -75,11 +78,21 @@ o	Tương tác qua live chat: Khi người dùng truy cập vào trang web, họ
  
  
 o	Sau khi khách hàng hoàn tất giao dịch, thông tin sẽ tiếp tục được sử dụng để thực hiện các chiến lược chăm sóc khách hàng như gửi email cảm ơn, gợi ý sản phẩm phù hợp, hoặc cung cấp các ưu đãi đặc biệt.
+
 o	CRM cũng giúp theo dõi toàn bộ hành trình của khách hàng, từ lúc bắt đầu quan tâm đến sản phẩm cho đến khi hoàn tất mua hàng, giúp duy trì mối quan hệ lâu dài với khách hàng và tăng cường sự hài lòng.
+
+![image](https://github.com/user-attachments/assets/291d9fcb-c201-486e-b286-40e04c314de9)
+
+![image](https://github.com/user-attachments/assets/b0a37345-1122-436d-bb00-8505e263fd48)
+
 
 6.	Đồng bộ hóa và quản lý hiệu quả quy trình kinh doanh
 
 
 o	Thông tin từ các kênh bán hàng được đồng bộ vào hệ thống quản lý để cập nhật trạng thái đơn hàng, quản lý hàng tồn kho và dự đoán nhu cầu nhập hàng.
+
 o	Dữ liệu về doanh số, lợi nhuận và các chỉ số khác được tổng hợp và phân tích, giúp cửa hàng đánh giá hiệu quả kinh doanh trên từng kênh và đưa ra chiến lược cải thiện phù hợp.
+
 Hệ thống website bán thiết bị điện tử này sẽ không chỉ tối ưu hóa quy trình bán hàng mà còn nâng cao trải nghiệm khách hàng thông qua sự liền mạch và thuận tiện, từ khâu tương tác trên mạng xã hội đến hoàn tất mua sắm trực tuyến.
+
+
