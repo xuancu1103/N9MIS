@@ -96,3 +96,9 @@ o	Dữ liệu về doanh số, lợi nhuận và các chỉ số khác được 
 Hệ thống website bán thiết bị điện tử này sẽ không chỉ tối ưu hóa quy trình bán hàng mà còn nâng cao trải nghiệm khách hàng thông qua sự liền mạch và thuận tiện, từ khâu tương tác trên mạng xã hội đến hoàn tất mua sắm trực tuyến.
 
 
+7. Phân công công việc nhóm:
+
+![image](https://github.com/user-attachments/assets/2f767740-e6d8-4ea3-910f-c2653b42b3d7)
+
+
+
